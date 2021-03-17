@@ -12,6 +12,7 @@ Motion History Image dataset of ten designed dynamic gestures, can be used for i
 
 
 # Reference 
+In the file "Dataset_MHI_of_Ten_Dynamic_Gestures"
 
 1.	“Design of a Real-Time Human-Robot Collaboration System Operated by Dynamic Gestures,” H. Chen, M. C. Leu, W. Tao and Z. Yin, Proceedings of the ASME 2020 International Mechanical Engineering Congress and Exposition (IMECE 2020), November 13-19, 2020, Portland, OR.
   https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/84492/V02BT02A051/1099004
