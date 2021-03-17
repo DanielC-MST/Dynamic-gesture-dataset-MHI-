@@ -1,5 +1,7 @@
 # Motion History Image dataset of ten designed dynamic gestures
 Motion History Image dataset of ten designed dynamic gestures, can be used for interaction between human and robots
+[IMECE 2020 conference paper](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/84492/V02BT02A051/1099004)
+[ISFA 2020 conference paper](https://asmedigitalcollection.asme.org/ISFA/proceedings-abstract/ISFA2020/83617/V001T09A001/1087346)
 
 # Design of 10 dynamic gestures:
 
