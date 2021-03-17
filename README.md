@@ -14,6 +14,9 @@ Motion History Image dataset of ten designed dynamic gestures, can be used for i
 In the Dataset, i.e. "Dataset_MHI_of_Ten_Dynamic_Gesture.zip", there are MHIs of the above ten dynamic gestures.
 1. All images are named based on the sequence of the gesture and MHI figure above.
 2. The size of the each MHI data had been resize as 32 * 32, which is easier for the deep learning training.
+
+![image](https://user-images.githubusercontent.com/61817794/111550270-c6a60c80-874b-11eb-9a73-c25f8292c82d.png)
+
 3. Four different data augmentation methods were used in this dataset, including brightness change, shift, zooming, and perspective transformation, as shown below:
 
 ![image](https://user-images.githubusercontent.com/61817794/111550021-4c758800-874b-11eb-9fa0-7cac898886a1.png)
