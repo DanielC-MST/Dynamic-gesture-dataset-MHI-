@@ -7,6 +7,7 @@ Motion History Image dataset of ten designed dynamic gestures, can be used for i
 
 # Motion Hisory Extraction
 Motion History Image （https://en.wikipedia.org/wiki/Motion_History_Images） is is a static image template helps in understanding the motion location and path as it progresses.
+
 ![image](https://user-images.githubusercontent.com/61817794/111548293-7da08900-8748-11eb-9ad2-db32b53c6695.png)
 
 
